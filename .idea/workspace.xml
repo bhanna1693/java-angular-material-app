@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cac37a5-659f-4a90-a416-c8360dbec278" name="Default Changelist" comment="okta integration added; application at 100%">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6cac37a5-659f-4a90-a416-c8360dbec278" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/brianhanna/dev/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/brianhanna/dev/demo/DemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/car/car-edit/car-edit.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/car/car-edit/car-edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/car/car-edit/car-edit.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/car/car-edit/car-edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/car/car-list/car-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/car/car-list/car-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/car/car-list/car-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/car/car-list/car-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/home/home.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/home/home.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/material/material.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/shared/car/car.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/shared/car/car.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/shared/car/car.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/shared/giphy/giphy.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/shared/giphy/giphy.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/shared/okta/auth.interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/tslint.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,51 +66,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/src/app/shared/okta/auth.interceptor.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/src/app/shared/car/car.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/src/main/java/com/brianhanna/dev/demo/DemoApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="765">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#825#826#0" expanded="true" />
                 <element signature="e#891#892#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/src/environments/environment.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -130,8 +139,8 @@
     </navigator>
     <panes>
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,6 +158,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/src/main" />
       <recent name="C:\Users\BHanna\Documents\myprojects\spring-angular-example\webapp\src\app\car" />
       <recent name="C:\Users\BHanna\Documents\myprojects\spring-angular-example\webapp\src\app\shared\giphy" />
     </key>
@@ -177,25 +187,33 @@
       <updated>1561741780116</updated>
       <workItem from="1561741782637" duration="897000" />
       <workItem from="1561742710361" duration="7953000" />
-      <workItem from="1561755416816" duration="2954000" />
+      <workItem from="1561755416816" duration="3326000" />
+      <workItem from="1561764086251" duration="1635000" />
+      <workItem from="1561771014558" duration="969000" />
     </task>
+    <task id="LOCAL-00001" summary="okta integration added; application at 100%">
+      <created>1561758581050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561758581050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11804000" />
+    <option name="totallyTimeSpent" value="14780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1987076" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37802908" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33184358" />
@@ -204,11 +222,12 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32846716" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32846716" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" visible="true" weight="0.329927" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -397,7 +416,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/src/app/shared/okta/auth.interceptor.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
+        <state relative-caret-position="300">
           <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
@@ -405,19 +424,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/environments/environment.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webapp/src/app/shared/car/car.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="255">
           <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
@@ -425,10 +434,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/environments/environment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/src/main/java/com/brianhanna/dev/demo/DemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="765">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#825#826#0" expanded="true" />
